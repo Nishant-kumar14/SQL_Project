@@ -1,10 +1,10 @@
-# SQl
+# SQl👨‍💻
 
 SQL (Structured Query Language) is a domain-specific language used for managing and manipulating relational databases. This README provides an overview of essential SQL concepts, commands, and best practices.
 
-## SQL Basics
+## 🔧SQL Basics
 
-### Key Components:
+### 🛠️Key Components:
 
 1. Tables: Data is organized in rows and columns.
 
@@ -16,7 +16,7 @@ SQL (Structured Query Language) is a domain-specific language used for managing 
 
 5. Foreign Key: Establishes relationships between tables.
 
-## Practice Questions
+## Practice Questions📖
 
 With these questions i perform my queries and solves the problem statements:
 
@@ -194,13 +194,13 @@ My Sql doesn't support percentile_cont function that's why i use ntile function,
 
 
 ----------
-## Conclusion:
+## Conclusion:👁️
 
 SQL is a powerful language for managing relational databases. By mastering its features and adhering to best practices, you can effectively query, manipulate, and maintain your data systems.
 I show you a query that apply on these two tables these are very affective and useful for future.
 ----------
 
-Thank you Using Query
+Thank you Using Query🥳
 
 
 
