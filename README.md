@@ -148,7 +148,7 @@ I have not any such Employee so that's why my output is shown nill.
 ![Screenshot 2025-01-11 194547](https://github.com/user-attachments/assets/8734f94e-0b7b-4005-a11b-c3699050c05c)
 
 #### Output:
-![Screenshot 2025-01-11 194547](https://github.com/user-attachments/assets/3e4171b4-f508-443a-bd94-a6f621395208)
+![Screenshot 2025-01-11 194559](https://github.com/user-attachments/assets/7cc80804-3214-4a15-aead-8e158a123e48)
 
 ### Question 11. Fetch employees with salaries in the top 10%:
 
@@ -190,7 +190,8 @@ My Sql doesn't support percentile_cont function that's why i use ntile function,
 ![Screenshot 2025-01-12 151429](https://github.com/user-attachments/assets/bd843ad8-8b9b-4ce0-b514-2bfb8ac996ca)
 
 #### Output:
-![Screenshot 2025-01-12 151429](https://github.com/user-attachments/assets/cf1acd63-5780-49af-81b3-b0807a8e0cf5)
+![Screenshot 2025-01-12 151445](https://github.com/user-attachments/assets/cdfd59a1-1b0b-420c-954d-d0013f656539)
+
 
 ----------
 ## Conclusion:
